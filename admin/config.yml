@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: nickwesner3-stack/Site-5
+  repo: nickwesner3-stack/customer-test
   branch: main
   base_url: https://site2-off.nickwesner3.workers.dev
   auth_endpoint: auth
